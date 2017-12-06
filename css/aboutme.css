@@ -1,0 +1,52 @@
+h1{
+    color:rgba(2, 5, 10,1);
+    text-align: center;
+    /*  width
+        color
+        style*/
+    /*border-width: 1px;*/
+    /*border-style: dashed;*/
+    /*border-color: gold;*/
+    border: 2px solid darkslategrey;
+    font-family: Georgia;
+
+}
+/*selector{*/
+    /*property:value;*/
+/*}*/
+li{
+    color:darkslategrey;
+}
+h4{
+    color: #000529;
+    background:rgba(87, 87, 89,.8) ;
+}
+body{
+    background: url("https://traveli4.com/wp-content/uploads/2014/11/website-background-pattern.jpg");
+    /*background-repeat: no-repeat;*/
+    background-size: auto;
+    font-family: "Indie Flower";
+
+}
+#tin{
+    color: forestgreen;
+}
+.hello{
+    text-decoration: line-through;
+    color: hotpink;
+}
+p{
+    font-family: Arial;
+    border: solid 2px dodgerblue;
+    width: 80%;
+    padding: 10px;
+    margin: auto;
+
+}
+span{
+    font-size: 1.5em;
+}
+.big{
+    color: yellow;
+}
+

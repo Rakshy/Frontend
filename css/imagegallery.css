@@ -1,0 +1,33 @@
+div{
+    float: left;
+}
+#first{
+
+    margin-left: 1.66%;
+    color: rgba(216, 23, 36,0.6) ;
+    font-size: 1.5em;
+    padding-bottom: 0px
+}
+#last{
+
+    margin-left: 1%;
+    font-size: 1.5em;
+    color: rgba(35, 35, 224,0.6);
+    padding-bottom: 0px
+}
+body{
+    font-family: "Georgia";
+    font-size: 20px;
+}
+img{
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+p{
+    margin-left: 1.66%;
+    border-bottom: solid 2px grey;
+    line-height: 30px;
+    width: 30%;
+}
+
